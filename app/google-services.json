@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "518958083917",
+    "firebase_url": "https://kopiku-743c0.firebaseio.com",
+    "project_id": "kopiku-743c0",
+    "storage_bucket": "kopiku-743c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518958083917:android:eecdfea83df82763",
+        "android_client_info": {
+          "package_name": "com.example.user.kopiku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518958083917-nqa0hvv9lqlds3ggpbk35jt0pfjn4m03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.kopiku",
+            "certificate_hash": "81b64691dcc7124a5a6f56a49c7ecbda7f311376"
+          }
+        },
+        {
+          "client_id": "518958083917-uoi2fm5ec6p09n0bljq9ngmk6lvn3r90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ooqQs5tdssV-C5k8VBIxEbXbS7PLE1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518958083917-uoi2fm5ec6p09n0bljq9ngmk6lvn3r90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
